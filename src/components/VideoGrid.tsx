@@ -30,7 +30,7 @@ const VIDEO = [
   },
   {
     id: 4,
-    title: "How to wash dishes | Wash with me | Women's day special",
+    title: "How to write an essay | Write with me | Day 2/14",
     image: "/images/channel.jpg",
     thumbImage: "/images/thumbImage.jpg",
     author: "Cleanz",
@@ -66,7 +66,7 @@ const VIDEO = [
   },
   {
     id: 8,
-    title: "How to wash dishes | Wash with me | Women's day special",
+    title: "How to write an essay | Write with me | Day 2/14",
     image: "/images/channel.jpg",
     thumbImage: "/images/thumbImage.jpg",
     author: "Cleanz",
@@ -102,7 +102,7 @@ const VIDEO = [
   },
   {
     id: 12,
-    title: "How to wash dishes | Wash with me | Women's day special",
+    title: "How to write an essay | Write with me | Day 2/14",
     image: "/images/channel.jpg",
     thumbImage: "/images/thumbImage.jpg",
     author: "Cleanz",
@@ -138,7 +138,7 @@ const VIDEO = [
   },
   {
     id: 16,
-    title: "How to wash dishes | Wash with me | Women's day special",
+    title: "How to write an essay | Write with me | Day 2/14",
     image: "/images/channel.jpg",
     thumbImage: "/images/thumbImage.jpg",
     author: "Cleanz",

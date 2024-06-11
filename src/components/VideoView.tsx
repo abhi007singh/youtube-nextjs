@@ -151,7 +151,7 @@ const VIDEO = [
 ];
 
 const VideoView = (props: any) => {
-  const video = VIDEO[props.id - 1];
+  const video = VIDEO[props.id - 1] || VIDEO[0];
   const [likes, setLikes] = useState(12);
   const [dislikes, setDislikes] = useState(2);
 
